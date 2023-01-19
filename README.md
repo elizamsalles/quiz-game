@@ -1,2 +1,2 @@
 # quiz-game
-Projeto criado dentro do curso de Porgramação Web
+Projeto criado dentro do curso de Programação Web
